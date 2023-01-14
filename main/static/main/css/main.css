@@ -1,0 +1,69 @@
+body {
+    background: #2c2c2c;
+}
+
+asaid {
+    float: left;
+    background: #181818;
+    width: 20%;
+    padding: 2.5%;
+    height: 100vh;
+    color: #fff;
+    border-right: 5px solid #4d4d4d;
+}
+
+asaid img {
+    width: 100px;
+    float: left;
+}
+
+asaid .logo{
+    font-size: 30px;
+    margin-left: 30px:
+    font-weigth: blod;
+    position: relative;
+    top: 32px;
+}
+
+asaid h3{
+    margin-top: 100px;
+    font-size: 30px;
+}
+
+asaid ul {list-style: none}
+asaid ul li {
+    color: #fff;
+    margin-top: 15px;
+    transition: transform .6s ease;
+}
+
+asaid ul li:hover,asaid ul a:hover {
+    color: #003300;
+    text-decoration: none;
+    transform: scale(1.10);
+}
+
+main .features {
+    float: left;
+    color: #aaa;
+    margin-top: 50px;
+    text-align: center;
+    width: 60%;
+}
+
+main .features h1 {font-size: 50px}
+main .features p {max-width: 400px; margin: 20px auto}
+
+.alert-warning {
+    float: left;
+    clear: both;
+    width: 400px;
+    margin: 20px 34%;
+    text-align: left;
+}
+
+form {
+    margin-left: 32%;
+    width: 500px;
+    margin-top: 50px;
+}
